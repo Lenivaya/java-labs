@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teams>
+  <team>
+    <name>Updated Chess Team</name>
+    <participants>
+      <employee>
+        <name>Alice</name>
+        <age>28</age>
+      </employee>
+      <employee>
+        <name>Bob</name>
+        <age>32</age>
+      </employee>
+    </participants>
+  </team>
+  <team>
+    <name>Another Chess Team</name>
+    <participants>
+      <employee>
+        <name>John</name>
+        <age>30</age>
+      </employee>
+      <employee>
+        <name>Jane</name>
+        <age>25</age>
+      </employee>
+      <employee>
+        <name>Jim</name>
+        <age>35</age>
+      </employee>
+      <employee>
+        <name>Jill</name>
+        <age>30</age>
+      </employee>
+    </participants>
+  </team>
+  <team>
+    <name>Chess Team</name>
+    <participants>
+      <employee>
+        <name>John</name>
+        <age>30</age>
+      </employee>
+      <employee>
+        <name>Jane</name>
+        <age>25</age>
+      </employee>
+      <employee>
+        <name>Jim</name>
+        <age>35</age>
+      </employee>
+      <employee>
+        <name>Jill</name>
+        <age>30</age>
+      </employee>
+    </participants>
+  </team>
+</teams>
